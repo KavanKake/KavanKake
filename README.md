@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavin Lokeswaran</h1>
 <h3 align="center">A passionat developer from Oslo, Norway</h3>
 
-- 🔭 I’m currently working on **FPL playerpics**
-
-- 🌱 I’m currently learning **Flask and Python**
-
 - 👨‍💻 All of my projects are available at [KavinLokeswaran.no](KavinLokeswaran.no)
 
 - 💬 Ask me about **Everything you want to know**
