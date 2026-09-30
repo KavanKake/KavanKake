@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavin Lokeswaran</h1>
 <h3 align="center">A passionat developer from Oslo, Norway</h3>
 
-- 👨‍💻 All of my projects are available at [KavinLokeswaran.no](KavinLokeswaran.no)
+- 👨‍💻 All of my projects are available at [KavinLokeswaran.no](https://kavinlokeswaran.no))
 
 - 💬 Ask me about **Everything you want to know**
 
